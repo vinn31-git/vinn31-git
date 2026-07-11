@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h1 align="center">Hi 👋, I'm Sai Sahasra Chappidi</h1>
+<h1 align="center">Hi 👋, I'm Sahasraa</h1>
 
 <h3 align="center">
 Full Stack Developer • AI Enthusiast • Competitive Programmer
