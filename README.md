@@ -21,7 +21,7 @@ Building scalable web applications, AI-powered solutions, and data-driven produc
 - 🎓 B.Tech in **Electrical Engineering** at **NIT Agartala**
 - 💻 Passionate about **Software Development, Data Analytics, AI, and Backend Engineering**
 - 🧠 Strong foundation in **Data Structures & Algorithms**
-- 🌱 Currently learning **System Design**, **Advanced SQL**, and **Cloud Technologies**
+- 🌱 Currently learning **System Design**, **SQL**, and **Cloud Technologies**
 - 🚀 Love building scalable products powered by **AI** and **Data**
 - ⚡ Always exploring new technologies and solving real-world problems
 
