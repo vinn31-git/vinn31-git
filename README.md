@@ -97,26 +97,6 @@ Interactive business intelligence dashboard built using **Streamlit**.
 
 `Python` • `Pandas` • `SQL` • `Plotly` • `Streamlit`
 
----
-
-## 📦 StockGuard – AI-Powered Inventory Analytics
-
-AI-powered inventory and expiry management platform.
-
-### Highlights
-
-- 📦 Inventory tracking dashboard
-- 🤖 Gemini AI-powered inventory insights
-- ⏰ Expiry prediction & monitoring
-- 📊 Sales analytics dashboard
-- 🔔 Smart inventory alerts
-
-**Tech Stack**
-
-`Next.js` • `TypeScript` • `Supabase` • `Tailwind CSS` • `Gemini AI`
-
----
-
 ## 🎤 InterviewMate AI
 
 AI-powered mock interview platform.
