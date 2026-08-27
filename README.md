@@ -143,18 +143,6 @@ Responsive web application for smartphone comparison.
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vinn31-git&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=vinn31-git&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinn31-git&layout=compact&theme=tokyonight"/>
-</p>
-
----
 
 # 🌐 Connect With Me
 
@@ -180,6 +168,6 @@ Responsive web application for smartphone comparison.
 
 <p align="center">
 
-### 💡 "Code. Learn. Build. Analyze. Repeat."
+### 💡 "Code. Learn. Build. Repeat."
 
 </p>
